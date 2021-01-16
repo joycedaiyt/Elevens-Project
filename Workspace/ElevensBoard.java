@@ -14,7 +14,6 @@ import java.util.ArrayList;
  * 03-26-15 slightly altered by Leon Schram 
  * who likes curly braces aligned.
  *************************************************************************
- * This is the only file that students alter for Lab16.
  */
 public class ElevensBoard 
 {
