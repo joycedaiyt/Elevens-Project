@@ -1,5 +1,3 @@
-// lab16v100.java
-// This is the 100 point version.
 // Joyce Dai
 // 04/05/2020
 // APCS, Mr. Robinson
